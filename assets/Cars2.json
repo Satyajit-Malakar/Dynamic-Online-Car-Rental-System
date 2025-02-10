@@ -1,0 +1,96 @@
+[
+    {
+        "type": "header",
+        "version": "5.2.0",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "carrental"
+    },
+    {
+        "type": "table",
+        "name": "tblvehicles",
+        "database": "carrental",
+        "data": [
+            {
+                "id": "1",
+                "VehiclesTitle": "2024 Tesla Roadster",
+                "VehiclesBrand": "Tesla",
+                "VehiclesOverview": "Transmission: Automatic\nBody type: Convertible, 2 Doors, 2 Seats\nDrive type: All Wheel Drive\nEngine: Electric",
+                "PricePerDay": "1600",
+                "FuelType": "Electric",
+                "ModelYear": "2024",
+                "SeatingCapacity": "2",
+                "Quantity": "3",
+                "Vimage1": "admin\/img\/roadster-2-65e72d426825b.jpg",
+                "Available": "from July 2024"
+            },
+            {
+                "id": "2",
+                "VehiclesTitle": "2024 Lamborghini Huracan EVO",
+                "VehiclesBrand": "Lamborghini",
+                "VehiclesOverview": "Transmission: Automatic\nBody type: Coupe, 2 Doors, 2 Seats\nDrive type: All Wheel Drive\nEngine: V10, 5.2 L",
+                "PricePerDay": "1500",
+                "FuelType": "Petrol",
+                "ModelYear": "2024",
+                "SeatingCapacity": "2",
+                "Quantity": "2",
+                "Vimage1": "admin\/img\/2024_lamborghini_huracan_New.jpg",
+                "Available": "from December 2024"
+            },
+            {
+                "id": "3",
+                "VehiclesTitle": "2024 Ferrari 812 Superfast",
+                "VehiclesBrand": "Ferrari",
+                "VehiclesOverview": "Transmission: Automatic\nBody type: Coupe, 2 Doors, 2 Seats\nDrive type: Rear Wheel Drive\nEngine: V12, 6.5 L",
+                "PricePerDay": "1800",
+                "FuelType": "Petrol",
+                "ModelYear": "2024",
+                "SeatingCapacity": "2",
+                "Quantity": "1",
+                "Vimage1": "admin\/img\/li3020379_u6a0684488_1.jpg",
+                "Available": "from August 2024"
+            },
+            {
+                "id": "4",
+                "VehiclesTitle": "2024 Tesla Model S Plaid",
+                "VehiclesBrand": "Tesla",
+                "VehiclesOverview": "Transmission: Automatic\nBody type: Sedan, 4 Doors, 5 Seats\nDrive type: All Wheel Drive\nEngine: Electric",
+                "PricePerDay": "1200",
+                "FuelType": "Electric",
+                "ModelYear": "2024",
+                "SeatingCapacity": "5",
+                "Quantity": "3",
+                "Vimage1": "admin\/img\/2024-tesla-model-s-107-6572200e43fa1.jpg",
+                "Available": "from August 2024"
+            },
+            {
+                "id": "5",
+                "VehiclesTitle": "2024 Lamborghini Aventador SVJ",
+                "VehiclesBrand": "Lamborghini",
+                "VehiclesOverview": "Transmission: Automatic\nBody type: Coupe, 2 Doors, 2 Seats\nDrive type: All Wheel Drive\nEngine: V12, 6.5 L",
+                "PricePerDay": "2000",
+                "FuelType": "Petrol",
+                "ModelYear": "2024",
+                "SeatingCapacity": "2",
+                "Quantity": "1",
+                "Vimage1": "admin\/img\/a1ed13760fdac70ac4c082f826749c72.jpg",
+                "Available": "from July 2024"
+            },
+            {
+                "id": "6",
+                "VehiclesTitle": "2024 Ferrari SF90 Stradale",
+                "VehiclesBrand": "Ferrari",
+                "VehiclesOverview": "Transmission: Automatic\nBody type: Coupe, 2 Doors, 2 Seats\nDrive type: All Wheel Drive\nEngine: V8, 4.0 L Hybrid",
+                "PricePerDay": "2500",
+                "FuelType": "Hybrid",
+                "ModelYear": "2024",
+                "SeatingCapacity": "2",
+                "Quantity": "2",
+                "Vimage1": "admin\/img\/2024-ferrari-sf90-xx-stradale-110-654a6690401bb.jpg",
+                "Available": "from July 2024"
+            }
+        ]
+    }
+]
